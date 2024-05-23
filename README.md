@@ -3,7 +3,6 @@
 DevSecOps engineer that dabbles in data science and art.
 <br><br>
 I mostly work in internal source control platforms so this is my play space.
-<br><br>
 
 <details>
     <summary><h2>Currently working on</h2></summary>
@@ -11,7 +10,6 @@ I mostly work in internal source control platforms so this is my play space.
     <li>Recently discovered leetcode
     <li>Cleaning off old scripts to include in GitHub
     <li>I mostly work in internal source control platforms so this is my play space.
-    <br><br>
 </details>
 
 <details>
