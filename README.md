@@ -1,11 +1,23 @@
-- 👋 Hi, I’m @fl0ffy
-- 🌱 I’m currently learning full stack development with ilovecoding.org
-- 💞️ I mostly work in internal source control platforms so this is my play space.
+# About Me
 
-- [LinkedIn](https://www.linkedin.com/in/johnathan-bernat-68b545b/)
+DevSecOps engineer that dabbles in data science and art.
+<br><br>
+I mostly work in internal source control platforms so this is my play space.
+<br><br>
 
-- 💥 Still under construction
-<!---
-fl0ffy/fl0ffy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<details>
+    <summary><h2>Currently working on</h2></summary>
+    <li>Learning full stack development with ilovecoding.org
+    <li>Recently discovered leetcode
+    <li>Cleaning off old scripts to include in GitHub
+    <li>I mostly work in internal source control platforms so this is my play space.
+    <br><br>
+</details>
+
+<details>
+    <summary><h2>Find me elsewhere</h2></summary>
+    <a href=https://www.linkedin.com/in/johnathan-bernat-68b545b/>LinkedIn</a> |
+    <a href=https://www.credly.com/users/johnathan-bernat>Credly</a> |
+    <a href=https://leetcode.com/u/user7675OZ/>leetcode</a>
+    <!-- - [Instagram]() -->
+</details>
